@@ -74,11 +74,11 @@ This is a landing page developed with HTML and CSS to promote a music app. The p
 
 #### Desktop
 
-![Desktop](path/to/desktop-image.png)
+![Desktop](./assets/screenshot-desktop.png)
 
 #### Mobile
 
-![Mobile](path/to/mobile-image.png)
+![Mobile](./assets/screenshot-mobile.png)
 
 ### 🌐 Access Online
 
