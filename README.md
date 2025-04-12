@@ -31,11 +31,11 @@ Esta é uma landing page desenvolvida com HTML e CSS com o objetivo de promover 
 
 #### Desktop
 
-![Desktop](caminho/para/imagem-desktop.png)
+![Desktop](./assets/screenshot-desktop.png)
 
 #### Mobile
 
-![Mobile](caminho/para/imagem-mobile.png)
+![Mobile](./assets/screenshot-mobile.png)
 
 ### 🌐 Acesse Online
 
