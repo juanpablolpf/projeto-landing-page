@@ -84,6 +84,4 @@ This is a landing page developed with HTML and CSS to promote a music app. The p
 
 You can view the landing page online at the following link: [https://juanpablolpf.github.io/projeto-landing-page/](https://juanpablolpf.github.io/projeto-landing-page/)
 
----
 
-Caso deseje, posso ajudá-lo a adicionar as capturas de tela ou qualquer outra informação adicional que você queira incluir no README. 
