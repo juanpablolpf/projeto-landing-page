@@ -1,7 +1,3 @@
-Perfeito! Com base nas informações que você forneceu e no repositório do seu projeto, aqui está o README para o seu projeto "Landing Page" — em português e inglês:
-
----
-
 # 🎵 Landing Page
 
 ## 🇧🇷 Português
